@@ -1,3 +1,3 @@
-# Tauri template
+# Chat app
 
-## Tauri + SvelteKit + TailwindCSS + Typescript + Shadnc components
+A chat app made with Sveltekit, tauri, tailwind, authjs, pocketbase and daiyUI
